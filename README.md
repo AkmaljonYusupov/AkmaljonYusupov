@@ -1,6 +1,13 @@
 ### Hi there 👋
-<img
-      style="display: flex; align-items: center; margin: auto"
+ <img
+      style="
+        display: flex;
+        align-items: center;
+        margin: auto;
+        width: 300px;
+        border-radius: 20px;
+        border: 5px solid blue;
+      "
       src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
     />
 <!--
