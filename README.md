@@ -1,6 +1,6 @@
 ### Hi there 👋
  <img
-      style="max-width: 300px"
+      style="max-width: 200px"
       src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
     />
 <!--
