@@ -3,7 +3,10 @@
       style="width: 300px"
       src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
     />
-    
+ <img
+      style="width: 300px"
+      src="https://gifimage.net/wp-content/uploads/2017/10/businessman-gif-1.gif"
+    />
 <!--
 **AkmaljonYusupov/AkmaljonYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
