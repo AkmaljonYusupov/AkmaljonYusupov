@@ -1,11 +1,11 @@
 ###  Hi there 👋
-<div style="display: flex; align-items: center; justify-content: center">
+
       <img
         width="500"
         src="https://itproger.com/paid_courses/img/javascript_anim.gif"
         alt="JavaScript"
       />
-    </div>
+
     
     
     
