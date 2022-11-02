@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; justify-content: center">
       <img
         width="500"
-        src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
+        src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"
       />
       <img
         width="500"
