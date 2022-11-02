@@ -1,10 +1,6 @@
 ###  Hi there 👋
 
-      <img
-        width="500"
-        src="https://itproger.com/paid_courses/img/javascript_anim.gif"
-        alt="JavaScript"
-      />
+      <img width="500" src="https://itproger.com/paid_courses/img/javascript_anim.gif" alt="JavaScript" />
 
     
     
