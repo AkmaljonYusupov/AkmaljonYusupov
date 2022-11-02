@@ -1,9 +1,6 @@
 ###  Hi there 👋
-
-      <img width="500" src="https://itproger.com/paid_courses/img/javascript_anim.gif" alt="JavaScript" />
-
-    
-    
+<img width="500" src="https://itproger.com/paid_courses/img/javascript_anim.gif" alt="JavaScript" />
+ 
 <!--
     **AkmaljonYusupov/AkmaljonYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
