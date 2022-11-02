@@ -1,5 +1,5 @@
 ###  Hi there 👋
-<img width="500" src="https://itproger.com/paid_courses/img/javascript_anim.gif" alt="JavaScript" />
+<img width="500" src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" alt="JavaScript" />
  
 <!--
     **AkmaljonYusupov/AkmaljonYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
