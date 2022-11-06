@@ -1,5 +1,5 @@
 ###  Hi there 👋
-<div style="display: flex; align-items: center; justify-content: center">
+
       <img
         width="300"
         src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"
@@ -9,7 +9,7 @@
         src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
         alt="JavaScript"
       />
-    </div>
+   
  
 <!--
     **AkmaljonYusupov/AkmaljonYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
