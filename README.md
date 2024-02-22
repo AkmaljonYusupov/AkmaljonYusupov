@@ -1,5 +1,5 @@
 ###  Hi there 👋
-<img  width="300" src="[https://images.app.goo.gl/QV2CVZedAR7fkTSPA](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"/>
+<img  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
    
  
 <!--
