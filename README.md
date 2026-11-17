@@ -1,17 +1,82 @@
-###  Hi there 👋
-<img  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-   
- 
-<!--
-    **AkmaljonYusupov/AkmaljonYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Akmaljon Yusupov</h1>
+<h3 align="center">Frontend Developer & Online Mentor from Namangan, Uzbekistan 🇺🇿</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/AkmaljonYusupov">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript;Online+Mentor+%F0%9F%8E%93;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkmaljonYusupov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/AkmaljonYusupov?tab=followers"><img src="https://img.shields.io/github/followers/AkmaljonYusupov?label=Followers&style=flat&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/AkmaljonYusupov?tab=repositories"><img src="https://img.shields.io/badge/Repositories-41-0e75b6?style=flat" alt="Repositories" /></a>
+</p>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🙋‍♂️ About me
+
+- 💻 **Frontend Developer** building modern, responsive web apps
+- 🎓 **Online mentor** — helping beginners start their journey in web development
+- 🔭 Currently working on projects with **Next.js** and **TypeScript**
+- 🌱 Constantly learning new tools and best practices
+- 👯 Open to collaborating on interesting frontend projects
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js**
+- 📍 Based in **Namangan, Uzbekistan** (UTC +05:00)
+- ⚡ Fun fact: I love turning designs into pixel-perfect code
+
+</td>
+<td width="45%" align="center">
+  <img width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer at work" />
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui&perline=11" alt="Frontend skills" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,figma,npm,vercel,netlify,postman&perline=9" alt="Tools" />
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [**Blog-NextJS**](https://github.com/AkmaljonYusupov/Blog-NextJS) | A full stack blog website built with Next.js | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| [**Greenshop**](https://github.com/AkmaljonYusupov/Greenshop) | Online plant shop (e-commerce) project | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**QuizTest**](https://github.com/AkmaljonYusupov/QuizTest) | Interactive quiz application | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| [**SendToAdmin**](https://github.com/AkmaljonYusupov/SendToAdmin) | Send messages / form data to admin | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+
+<p align="right"><a href="https://github.com/AkmaljonYusupov?tab=repositories">➡️ See all repositories</a></p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkmaljonYusupov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmaljonYusupov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AkmaljonYusupov&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkmaljonYusupov&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://github.com/AkmaljonYusupov"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, don't forget to star my repositories — thanks for visiting!</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=120&section=footer" alt="footer" />
