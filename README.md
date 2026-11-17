@@ -14,24 +14,9 @@
 
 I build fast, clean web apps — from the **UI** to the **API** — and I teach others how to do it too.
 
-## 🛠️ Skills
-
-| | |
-| :-- | :-- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,prisma" alt="Backend" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel" alt="Tools" /> |
-
-## 🚀 Projects
-
-| Project | What it is | Links |
-| :-- | :-- | :-- |
-| 🌐 **toifam.uz** | Live web platform | [![Live](https://img.shields.io/badge/Live-toifam.uz-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://toifam.uz) ![Private](https://img.shields.io/badge/Code-Private-555?style=flat-square&logo=github) |
-| 📡 **statuswatch.uz** | Website status monitoring | [![Live](https://img.shields.io/badge/Live-statuswatch.uz-0e75b6?style=flat-square&logo=googlechrome&logoColor=white)](https://statuswatch.uz) ![Private](https://img.shields.io/badge/Code-Private-555?style=flat-square&logo=github) |
-| 📝 **Blog-NextJS** | Full stack blog | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkmaljonYusupov/Blog-NextJS) |
-| 🪴 **Greenshop** | Plant online shop | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkmaljonYusupov/Greenshop) |
-| ❓ **QuizTest** | Quiz app | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkmaljonYusupov/QuizTest) |
-| 📨 **SendToAdmin** | Send forms to admin | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/AkmaljonYusupov/SendToAdmin) |
+<p align="center">
+  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer at work" />
+</p>
 
 ## 📊 Stats
 
