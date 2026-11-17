@@ -24,7 +24,12 @@
   Here is a random dev joke just for you — refresh the page for a new one:
 </p>
 
-<p align="center">👉 Let's be friends: <b>@akmaljonyusupov</b> 🤝</p>
+<p align="center">
+  👉 Let's be friends on Telegram:
+  <a href="https://t.me/akmaljonyusupov"><b>@akmaljonyusupov</b></a> 🤝
+  <br/><br/>
+  <a href="https://t.me/akmaljonyusupov"><img src="https://img.shields.io/badge/Telegram-@akmaljonyusupov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
 </p>
