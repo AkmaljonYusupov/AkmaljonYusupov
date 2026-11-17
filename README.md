@@ -23,6 +23,8 @@
   <b>Ha! You clicked 😄 Curiosity is the #1 developer skill.</b><br/>
   Here is a random dev joke just for you — refresh the page for a new one:
 </p>
+
+<p align="center">👉 Let's be friends: <b>@akmaljonyusupov</b> 🤝</p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
 </p>
