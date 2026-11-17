@@ -8,19 +8,25 @@
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer at work" />
 </p>
 
-```js
-const akmaljon = {
-  role: "Full Stack Developer 💻",
-  alsoA: "Online Mentor 🎓",
-  location: "Namangan, Uzbekistan 🇺🇿",
-  fuel: ["☕ coffee", "🎧 music", "🌙 late nights"],
-  motto: "Write code. Ship it. Help others. Repeat. 🔁",
-};
-```
+<p align="center">
+  <img width="100%" src="./assets/terminal.svg" alt="whoami terminal" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AkmaljonYusupov&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<details>
+<summary><b>🎁 Don't click here...</b></summary>
+<br/>
+<p align="center">
+  <b>Ha! You clicked 😄 Curiosity is the #1 developer skill.</b><br/>
+  Here is a random dev joke just for you — refresh the page for a new one:
+</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+</p>
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkmaljonYusupov&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile views" />
